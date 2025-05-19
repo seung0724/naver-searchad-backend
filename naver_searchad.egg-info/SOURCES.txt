@@ -1,0 +1,10 @@
+README.md
+setup.py
+examples/__init__.py
+examples/sample_usage.py
+naver_searchad.egg-info/PKG-INFO
+naver_searchad.egg-info/SOURCES.txt
+naver_searchad.egg-info/dependency_links.txt
+naver_searchad.egg-info/requires.txt
+naver_searchad.egg-info/top_level.txt
+tests/test_campaigns.py
